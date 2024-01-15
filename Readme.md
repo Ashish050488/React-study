@@ -16,8 +16,8 @@ const parent = React.createElement(
     "div",
     { id: "child" },
     React.createElement("h1", {}, "i am an h1 tag")
-    // this is for  single  h1 tag what if we want to create mutliple tags sibling like "h1" and "h2". how do we do it?
-    //THE ANSWER IS PUT IT INSIDE AN ARRAY THIS IS ALSO APLLIED FOR SIMILAR SIBILING OF PARENT DIV
+   <!-- // this is for  single  h1 tag what if we want to create mutliple tags sibling like "h1" and "h2". how do we do it?
+    //THE ANSWER IS PUT IT INSIDE AN ARRAY THIS IS ALSO APLLIED FOR SIMILAR SIBILING OF PARENT DIV -->
   )
 );
 
