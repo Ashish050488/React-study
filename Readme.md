@@ -23,9 +23,9 @@ const parent = React.createElement(
 
 
 
-<!-- <div id="root">
+<div id="root">
         <h1>ashish is here!</h1>
         <!-- if any thing is inside the root root.render() method will replace it it will not as first html code will print and and then js file after that js code the root.render(). this happens very fast  -->
         <!-- ROOT.RENDER()  will only replace the code inside root div code above and below root div will be left untuched -->
-</div> -->
+</div>
 
